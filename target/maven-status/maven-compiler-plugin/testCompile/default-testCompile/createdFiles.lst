@@ -1,0 +1,5 @@
+nl\com\tommy\pages\LoggedPage.class
+nl\com\tommy\runner\TestRunner.class
+nl\com\tommy\steps\Steps.class
+nl\com\tommy\pages\LoginPage.class
+nl\com\tommy\pages\HomePage.class
