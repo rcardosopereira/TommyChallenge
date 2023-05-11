@@ -1,5 +1,5 @@
 # Tommy Challenge
-This is a repository for the Tommy Challenge project. It uses Java, Selenium, Cucumber, JUnit and TestNG, and Maven as a build automation tool.
+This is a repository for the Tommy Challenge project. It uses Java, Selenium, Cucumber, JUnit and Maven as a build automation tool.
 
 ## Setup
 To run the project, you will need to have the following installed on your computer:<br/>
@@ -7,7 +7,6 @@ To run the project, you will need to have the following installed on your comput
 -Selenium;<br/>
 -Cucumber;<br/>
 -JUnit;<br/>
--TestNG;<br/>
 -Maven (build automation tool);<br/>
 
 ## Running the project (Installation)
