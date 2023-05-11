@@ -5,8 +5,8 @@ This is a repository for the Tommy Challenge project. It uses Java, Selenium, Cu
 To run the project, you will need to have the following installed on your computer:<br/>
 -Java (Version 17.0.2);<br/>
 -Selenium (Version 4.9.0);<br/>
--Cucumber (7.12.0);<br/>
--JUnit (5.9.3);<br/>
+-Cucumber (Version 7.12.0);<br/>
+-JUnit (Version 5.9.3);<br/>
 -Maven (build automation tool);<br/>
 
 ## Running the project (Installation)
