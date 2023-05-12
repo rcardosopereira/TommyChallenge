@@ -7,6 +7,7 @@ To run the project, you will need to have the following installed on your comput
 -Selenium (Version 4.9.0);<br/>
 -Cucumber (Version 7.12.0);<br/>
 -JUnit (Version 5.9.3);<br/>
+-Google Chrome Browser (Version 113.0.5672.93);<br/> 
 -Maven (build automation tool);<br/>
 
 ## Running the project (Installation)
@@ -25,7 +26,7 @@ cd TommyChallenge <br/>
 Open the report located at:<br />
 **${project.build.directory}\TommyChallenge\target\cucumber-report-html\cucumber-html-reports\overview-features.html.<br />**
 
-### Testing(features) and WebDriver
+### Testing(features) and WebDriver (ChromeDriver 100.0.4896.60)
 To run the tests, follow the instructions above for running the project. <br />
 The tests use Cucumber and are located in the **src/test/resources/features** directory.<br />
 The Webdriver is located in the **src/test/resources/driver** directory.<br />
