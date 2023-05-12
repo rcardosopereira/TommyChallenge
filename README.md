@@ -27,8 +27,8 @@ Open the report located at:<br />
 
 ### Testing(features) and WebDriver
 To run the tests, follow the instructions above for running the project. <br />
-The tests use Cucumber and are located in the **src/test/resources/features directory.**<br />
-The Webdriver is located in the **src/test/resources/driver.**<br />
+The tests use Cucumber and are located in the **src/test/resources/features** directory.<br />
+The Webdriver is located in the **src/test/resources/driver** directory.<br />
 
 ## Design decisions
 The project was designed to follow the page object model, separating the packages (pages, runner and steps) and pages of the application into individual classes, and using them to interact with the application. The tests themselves use the Cucumber BDD style, allowing for clear, human-readable tests.
